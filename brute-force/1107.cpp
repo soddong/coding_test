@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-	int N, M; // N:이동하려는 채널, M:고장난버튼개수
+	int N, M; // N:이동하려는 채널, M:고장난버튼개수.
 	cin >> N >> M; 
 	int tmp_N = N, cnt = 0;
 	for (int j = 0; j < 6; j++) {

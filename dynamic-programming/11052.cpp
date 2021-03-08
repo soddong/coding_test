@@ -1,4 +1,4 @@
-/* 카드 구매하기 */
+/* 11052 : buy card */
 #include <iostream>
 #include <stdio.h>
 #include <vector>

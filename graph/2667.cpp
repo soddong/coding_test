@@ -1,4 +1,4 @@
-/* 2667 - 단지번호 붙이기 */
+/* 2667 - 단지 번호 붙이기 */
 #include <iostream>
 #include <stdio.h>
 #include <string>
